@@ -1,0 +1,48 @@
+# Recipe for Banana Bread
+---
+Recipe Name: Banana Bread
+Ingredients:
+  - item: sifted flour
+    measure: C
+    quantity: 2
+  - item: baking soda
+    measure: tsp
+    quantity: 1
+  - quantity: 1
+    measure: tsp
+    item: salt
+  - quantity: 1
+    measure: C
+    item: ripe bananas
+    notes:
+      - Mashed
+      - 2 - 3 bananas, freeze them, then thaw first
+  - quantity: 1
+    measure: Tbsp
+    item: Vinegar
+  - item: milk
+    note: Add to Vinegar to make 1/2 C of liquid
+  - quantity: 1/2
+    measure: C
+    item: butter
+  - quantity: 1
+    meausure: C
+    item: sugar
+  - quantity: 2
+    item: large eggs
+Directions:
+  - Preheat oven to 350 degrees F.
+  - Soft together flour, soda and salt.
+  - Cream shortnening. Blend in sugar.
+  - Add eggs one at a time untile blended.
+  - Beat until fluffy.
+  - Add flour mixutre, bananas, and liquid alternately. Beat well after each addition.
+  - Grease and flour pan very well.
+  - Bake for 60 to 70 minutes until toothpick comes out clean.
+Alternate Directions:
+  - Grease a regular muffin tin. Bake for 12 minutes @ 350 F.
+  - Grease a two cup round pyrex dish. Bake for 25 - 35 minutes @ 350.
+Tags:
+  - Deserts
+  - Quick Breads
+  - Comfort Food
