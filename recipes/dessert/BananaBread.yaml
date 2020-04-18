@@ -1,6 +1,13 @@
 # Recipe for Banana Bread
 ---
 Recipe Name: Banana Bread
+Cook Time:
+  Minimum:
+    Unit: Minute
+    Quantity: 60
+  Maximum:
+    Unit: Minute
+    Quantity: 70
 Ingredients:
   - item: sifted flour
     measure: C
