@@ -1,0 +1,79 @@
+# Recipe for Beef Stew in the Instant Pot
+---
+Recipe Name: Instant Pot Beef Stew
+Cook Time:
+  Prep Time:
+    Quantity: 14
+    Unit: Minute
+  Cook Time:
+    Quantity: 35
+    Unit: Minute
+  Pressure Release Time:
+    Quantity: 10
+    Unit: Minutes
+Ingredients:
+  - item: Beef Stew Meat
+    quanity: 1.5
+    measure: pound
+  - item: Olive Oil
+    quantity: 1
+    measure: Tbsp
+  - item: Salt
+    quantity: 1
+    measure: Tsp
+  - item: Black Pepper
+    quantity: 0.5
+    measure: Tsp
+  - item: Italian Seasoning
+    quantity: 1
+    measure: Tbsp
+  - item: Worcestershire Sauce
+    quantity: 2
+    measure: Tbsp
+  - item: Garlic Cloves
+    quantity: 3
+    prep: Minced
+  - item: Onion
+    quantity: 1
+    prep: rough chop
+    note: Large
+  - item: carrots
+    quantity: 0.5
+    measure: pound
+    prep: sliced small
+  - item: potatoes
+    quantity: 1
+    measure: pound
+    prep: cubed
+    note: waxy is preferred
+  - item: beef broth
+    quantity: 2.5
+    measure: C
+    alternate:
+      - item: beef broth
+        quantity: 2
+        measure: C
+      - item: stout
+        quantity: 0.5
+        measure: C
+        note: for deglazing
+  - item: tomato sauce
+    measure: oz
+    quantity: 10
+Directions:
+  - Add olive oil to instant pot and turn to saute setting.
+  - Season meat with salt, pepper, and Italian Seasoning.
+  - When oil sizzles, add meat in batches. Cook until browned.
+  - When all meat is browned, add liquid to deglaze. Scrape vigorously.
+  - Add meat back to pan.
+  - Add Worcestershire Sauce, garlic, onion, carrots, potatoes, and tomato sauce.
+  - Close lid and steam valve.
+  - Cook on high pressure for 35 minutes.
+  - Natural Release for 10 minutes, then open valve.
+Note: Serve with bread
+Tags:
+  - Soup
+  - Stew
+  - Main
+  - Savory
+  - Fast
